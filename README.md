@@ -85,9 +85,9 @@
 
 ### 📊 GITHUB STATISTICS & ANALYSIS:
 
-**GitHub Contributions:**
+**GitHub Contributions & Activity:**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yousufali2525/yousufali2525/output/github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.src='https://activity-graph.vercel.app/graph?username=yousufali2525&theme=tokyo-night&hide_border=true&area=true'" width="100%" />
+  <img src="https://activity-graph.vercel.app/graph?username=yousufali2525&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 <br />
