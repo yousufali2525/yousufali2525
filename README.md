@@ -85,9 +85,13 @@
 
 ### 📊 GITHUB STATISTICS & ANALYSIS:
 
-**🐍 24/7 Continuous Snake Eating Contributions:**
+**GitHub Contributions Snake Game:**
 <div align="center">
-  <img src="https://snk-generator.vercel.app/api?username=yousufali2525&theme=dark" width="100%" alt="Snake Game Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yousufali2525/yousufali2525/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yousufali2525/yousufali2525/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contributions Snake Game" src="https://raw.githubusercontent.com/yousufali2525/yousufali2525/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <br />
