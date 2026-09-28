@@ -85,9 +85,9 @@
 
 ### 📊 GITHUB STATISTICS & ANALYSIS:
 
-**GitHub Contributions & Activity:**
+**🐍 24/7 Continuous Snake Eating Contributions:**
 <div align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=yousufali2525&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://snk-generator.vercel.app/api?username=yousufali2525&theme=dark" width="100%" alt="Snake Game Animation" />
 </div>
 
 <br />
