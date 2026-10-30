@@ -97,13 +97,13 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousufali2525&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yousufali2525&theme=tokyonight&hide_border=true&background=0d1117&timezone=Asia/Dhaka" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yousufali2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yousufali2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yousufali2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
 </div>
 
