@@ -16,7 +16,7 @@
 <br />
 
 <!-- ABOUT ME -->
-- 🧑‍💻 Hi, I'm **[@yousufali2525](https://github.com/yousufali2525)**
+- 🧑💻 Hi, I'm **[@yousufali2525](https://github.com/yousufali2525)**
 - 💻 Currently building high-performance web applications with **Next.js**, **React**, and **TypeScript**.
 - 🎨 Focused on clean architecture, responsive Tailwind styling, and smooth user experiences.
 - ⚙️ Comfortable with backend essentials: **Node.js, Express.js, and MongoDB**.
@@ -113,6 +113,7 @@
 
 | Project | Tech Stack | Live Demo | Repository |
 | :--- | :--- | :---: | :---: |
+| **Bazar Dor** | Next.js (App Router), TypeScript, Tailwind CSS, DaisyUI, BetterAuth | [Live Preview](https://b14-a07-bazar-dor.vercel.app/) | [Code Repo](https://github.com/yousufali2525/B14-A07-Bazar-Dor.git) |
 | **FitLog** | Next.js, TypeScript, Tailwind CSS | [Live Preview](https://b14-a6-fit-log-mu.vercel.app/) | [Code Repo](https://github.com/yousufali2525/B14-A6-Fit-Log-) |
 | **DevStack** | React, Tailwind CSS | [Live Preview](https://extraordinary-cheesecake-4c5cb4.netlify.app) | [Code Repo](https://github.com/yousufali2525/react-B14-A5) |
 
