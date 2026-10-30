@@ -103,8 +103,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yousufali2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yousufali2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yousufali2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yousufali2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
 </div>
 
 ---
@@ -114,8 +114,8 @@
 | Project | Tech Stack | Live Demo | Repository |
 | :--- | :--- | :---: | :---: |
 | **Bazar Dor** | Next.js (App Router), TypeScript, Tailwind CSS, DaisyUI, BetterAuth | [Live Preview](https://b14-a07-bazar-dor.vercel.app/) | [Code Repo](https://github.com/yousufali2525/B14-A07-Bazar-Dor.git) |
-| **FitLog** | Next.js, TypeScript, Tailwind CSS | [Live Preview](https://b14-a6-fit-log-mu.vercel.app/) | [Code Repo](https://github.com/yousufali2525/B14-A6-Fit-Log-) |
-| **DevStack** | React, Tailwind CSS | [Live Preview](https://extraordinary-cheesecake-4c5cb4.netlify.app) | [Code Repo](https://github.com/yousufali2525/react-B14-A5) |
+| **FitLog** | Next.js, React, TypeScript, Tailwind CSS, DaisyUI | [Live Preview](https://b14-a6-fit-log-mu.vercel.app/) | [Code Repo](https://github.com/yousufali2525/B14-A6-Fit-Log-) |
+| **DevStack** | React, TypeScript, Tailwind CSS, Vite | [Live Preview](https://extraordinary-cheesecake-4c5cb4.netlify.app) | [Code Repo](https://github.com/yousufali2525/react-B14-A5) |
 
 ---
 
