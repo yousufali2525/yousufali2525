@@ -11,6 +11,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=550&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Applications;Next.js+%7C+React+%7C+TypeScript+Enthusiast;Always+Exploring+New+Technologies" alt="Typing SVG" />
   </a>
+  <br /><br />
+  <a href="https://my-portfolio-22-cc8a.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-4F46E5?style=for-the-badge" alt="View My Portfolio" />
+  </a>
 </div>
 
 <br />
@@ -21,12 +25,16 @@
 - 🎨 Focused on clean architecture, responsive Tailwind styling, and smooth user experiences.
 - ⚙️ Comfortable with backend essentials: **Node.js, Express.js, and MongoDB**.
 - 💬 Ask me about **JavaScript, React, Tailwind CSS, Next.js, and Web Development**.
+- 🌐 Check out my work and projects at **[my portfolio](https://my-portfolio-22-cc8a.vercel.app)**.
 - 📬 Reach out directly via **[Email](mailto:yousufali025250@gmail.com)**.
 
 ---
 
 ### 🌐 FOLLOW ME ON SOCIALS:
 <p>
+  <a href="https://my-portfolio-22-cc8a.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/yousufali2525" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
