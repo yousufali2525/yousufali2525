@@ -1,11 +1,11 @@
-<!-- TOP HERO BANNER -->
+# 👋 Hi, I'm Yousuf Ali
+
 <div align="center">
   <img src="./banner-profile.jpg.png" alt="Yousuf Ali Banner" width="100%" />
 </div>
 
 <br />
 
-<!-- TYPING ANIMATION -->
 <div align="center">
   <h2>Hi 👋, I'm Yousuf Ali</h2>
   <a href="https://git.io/typing-svg">
@@ -19,81 +19,94 @@
 
 <br />
 
-<!-- ABOUT ME -->
-- 🧑💻 Hi, I'm **[@yousufali2525](https://github.com/yousufali2525)**
+## 🧑‍💻 ABOUT ME
+
+- 👋 Hi, I'm **[@yousufali2525](https://github.com/yousufali2525)**
 - 💻 Currently building high-performance web applications with **Next.js**, **React**, and **TypeScript**.
 - 🎨 Focused on clean architecture, responsive Tailwind styling, and smooth user experiences.
 - ⚙️ Comfortable with backend essentials: **Node.js, Express.js, and MongoDB**.
 - 💬 Ask me about **JavaScript, React, Tailwind CSS, Next.js, and Web Development**.
-- 🌐 Check out my work and projects at **[my portfolio](https://my-portfolio-22-cc8a.vercel.app)**.
+- 🌐 Check out my work and projects at **[My Portfolio](https://my-portfolio-22-cc8a.vercel.app)**.
 - 📬 Reach out directly via **[Email](mailto:yousufali025250@gmail.com)**.
 
 ---
 
-### 🌐 FOLLOW ME ON SOCIALS:
-<p>
+## 🌐 FOLLOW ME ON SOCIALS
+
+<p align="left">
   <a href="https://my-portfolio-22-cc8a.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/yousufali2525" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/yousufali2525" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:yousufali025250@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/8801521748537" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.facebook.com/yousufali25" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://discord.com/users/1520096208691925102" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
 ---
 
-### 👾 TECHNOLOGY STACK:
+## 👾 TECHNOLOGY STACK
 
-**Languages:**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,py" />
+**Languages:**
 
-<br />
-
-**CSS Frameworks & Libraries:**  
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,py" alt="Languages" />
 
 <br />
 
-**JavaScript Frameworks & Libraries:**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
+**CSS Frameworks & Libraries:**
+
+<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" alt="CSS Frameworks" />
 
 <br />
 
-**Database & Model:**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
+**JavaScript Frameworks & Libraries:**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" alt="JavaScript Frameworks" />
 
 <br />
 
-**Deployment Platform:**  
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+**Database & ORM:**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" alt="Database" />
 
 <br />
 
-**Design & Graphics:**  
-<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+**Deployment Platforms:**
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Deployment Platforms" />
 
 <br />
 
-**Tools & Technologies:**  
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
+**Design & Graphics:**
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design Tools" />
+
+<br />
+
+**Tools & Technologies:**
+
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" alt="Tools" />
 
 ---
 
-### 📊 GITHUB STATISTICS & ANALYSIS:
+## 📊 GITHUB STATISTICS & ANALYSIS
 
 **GitHub Contributions Snake Game:**
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yousufali2525/yousufali2525/output/github-contribution-grid-snake-dark.svg" />
@@ -112,17 +125,17 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yousufali2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yousufali2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yousufali2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
 
-### 🚀 FEATURED PROJECTS:
+## 🚀 FEATURED PROJECTS
 
 | Project | Tech Stack | Live Demo | Repository |
 | :--- | :--- | :---: | :---: |
 | **BookNook** (Full Stack) | Next.js, Node.js, Express.js, MongoDB, Tailwind CSS | [Live Preview](https://booknook-22-cc8a.vercel.app/) | [Client](https://github.com/yousufali2525/booknook) · [Server](https://github.com/yousufali2525/booknook-server) |
-| **Bazar Dor** | Next.js (App Router), TypeScript, Tailwind CSS, DaisyUI, BetterAuth | [Live Preview](https://b14-a07-bazar-dor.vercel.app/) | [Code Repo](https://github.com/yousufali2525/B14-A07-Bazar-Dor.git) |
+| **Bazar Dor** | Next.js, TypeScript, Tailwind CSS, DaisyUI, BetterAuth | [Live Preview](https://b14-a07-bazar-dor.vercel.app/) | [Code Repo](https://github.com/yousufali2525/B14-A07-Bazar-Dor.git) |
 | **FitLog** | Next.js, React, TypeScript, Tailwind CSS, DaisyUI | [Live Preview](https://b14-a6-fit-log-mu.vercel.app/) | [Code Repo](https://github.com/yousufali2525/B14-A6-Fit-Log-) |
 | **DevStack** | React, TypeScript, Tailwind CSS, Vite | [Live Preview](https://extraordinary-cheesecake-4c5cb4.netlify.app) | [Code Repo](https://github.com/yousufali2525/react-B14-A5) |
 
