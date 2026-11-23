@@ -134,12 +134,10 @@
 
 | Project | Tech Stack | Live Demo | Repository |
 | :--- | :--- | :---: | :---: |
-<!-- AUTO-PROJECTS-START -->
 | **BookNook** (Full Stack) | Next.js, Node.js, Express.js, MongoDB, Tailwind CSS | [Live Preview](https://booknook-22-cc8a.vercel.app/) | [Client](https://github.com/yousufali2525/booknook) · [Server](https://github.com/yousufali2525/booknook-server) |
 | **Bazar Dor** | Next.js, TypeScript, Tailwind CSS, DaisyUI, BetterAuth | [Live Preview](https://b14-a07-bazar-dor.vercel.app/) | [Code Repo](https://github.com/yousufali2525/B14-A07-Bazar-Dor.git) |
 | **FitLog** | Next.js, React, TypeScript, Tailwind CSS, DaisyUI | [Live Preview](https://b14-a6-fit-log-mu.vercel.app/) | [Code Repo](https://github.com/yousufali2525/B14-A6-Fit-Log-) |
 | **DevStack** | React, TypeScript, Tailwind CSS, Vite | [Live Preview](https://extraordinary-cheesecake-4c5cb4.netlify.app) | [Code Repo](https://github.com/yousufali2525/react-B14-A5) |
-<!-- AUTO-PROJECTS-END -->
 
 ---
 
