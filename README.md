@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Yousuf Ali
 
 <div align="center">
@@ -118,14 +119,14 @@
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yousufali2525&theme=tokyonight&hide_border=true&background=0d1117&timezone=Asia/Dhaka" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yousufali2525&theme=tokyonight&hide_border=true&background=0d1117&timezone=Asia%2FDhaka" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yousufali2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yousufali2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yousufali2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufali2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
@@ -135,9 +136,10 @@
 | Project | Tech Stack | Live Demo | Repository |
 | :--- | :--- | :---: | :---: |
 | **BookNook** (Full Stack) | Next.js, Node.js, Express.js, MongoDB, Tailwind CSS | [Live Preview](https://booknook-22-cc8a.vercel.app/) | [Client](https://github.com/yousufali2525/booknook) · [Server](https://github.com/yousufali2525/booknook-server) |
+| **MentorLagbe** (Full Stack) | Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, BetterAuth, JWT | [Live Site](https://mentor-lagbe-client-rouge.vercel.app/) | [Client Repo](https://github.com/yousufali2525/MentorLagbe-Client) · [Server Repo](https://github.com/yousufali2525/mentorlagbe-server) |
 | **Bazar Dor** | Next.js, TypeScript, Tailwind CSS, DaisyUI, BetterAuth | [Live Preview](https://b14-a07-bazar-dor.vercel.app/) | [Code Repo](https://github.com/yousufali2525/B14-A07-Bazar-Dor.git) |
 | **FitLog** | Next.js, React, TypeScript, Tailwind CSS, DaisyUI | [Live Preview](https://b14-a6-fit-log-mu.vercel.app/) | [Code Repo](https://github.com/yousufali2525/B14-A6-Fit-Log-) |
-| **DevStack** | React, TypeScript, Tailwind CSS, Vite | [Live Preview](https://extraordinary-cheesecake-4c5cb4.netlify.app) | [Code Repo](https://github.com/yousufali2525/react-B14-A5) |
+| **DevStack** | React, TypeScript, Tailwind CSS, Vite | [Live Preview](https://extraordinary-cheesecake-4c5cb4.netlify.app/) | [Code Repo](https://github.com/yousufali2525/react-B14-A5) |
 
 ---
 
