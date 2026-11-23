@@ -1,0 +1,171 @@
+{
+  "username": "yousufali2525",
+  "profileRepository": "yousufali2525/yousufali2525",
+  "discovery": {
+    "maxProjects": 6,
+    "minRepositorySizeKb": 20,
+    "requestDelayMs": 200,
+    "excludedLanguages": [
+      "Python",
+      "C",
+      "C++",
+      "Java",
+      "MATLAB",
+      "Arduino",
+      "R",
+      "Jupyter Notebook",
+      "Assembly",
+      "Swift",
+      "Kotlin",
+      "Dart",
+      "Fortran",
+      "Scratch"
+    ],
+    "excludedTopics": [
+      "python",
+      "machine-learning",
+      "machinelearning",
+      "data-science",
+      "datascience",
+      "deep-learning",
+      "arduino",
+      "matlab",
+      "cpp",
+      "java",
+      "assignment",
+      "lab",
+      "university",
+      "practice",
+      "algorithm",
+      "competitive-programming"
+    ],
+    "excludedNamePatterns": [
+      "^assignment",
+      "^calculator",
+      "^my-first-github$",
+      "^html$",
+      "^problem$",
+      "^portfolioyousuf$"
+    ]
+  },
+  "manualExclude": [
+    "yousufali2525/yousufali2525",
+    "yousufali2525/booknook-server",
+    "yousufali2525/assignment-06-B-14",
+    "yousufali2525/assignment-B-14-A-01",
+    "yousufali2525/my-first-github",
+    "yousufali2525/html",
+    "yousufali2525/problem",
+    "yousufali2525/Calculator-program",
+    "yousufali2525/Calculator232311130",
+    "yousufali2525/YousufPortfolio",
+    "yousufali2525/portfolioYousuf",
+    "yousufali2525/novel-export-rajshahi"
+  ],
+  "manualInclude": [
+    {
+      "repository": "yousufali2525/booknook",
+      "requiredRepositories": [
+        "yousufali2525/booknook",
+        "yousufali2525/booknook-server"
+      ],
+      "name": "BookNook",
+      "category": "Full Stack",
+      "showCategory": true,
+      "stack": [
+        "Next.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Tailwind CSS"
+      ],
+      "liveUrl": "https://booknook-22-cc8a.vercel.app/",
+      "liveLabel": "Live Preview",
+      "repoLinks": [
+        {
+          "label": "Client",
+          "url": "https://github.com/yousufali2525/booknook"
+        },
+        {
+          "label": "Server",
+          "url": "https://github.com/yousufali2525/booknook-server"
+        }
+      ],
+      "protected": true
+    },
+    {
+      "repository": "yousufali2525/B14-A07-Bazar-Dor",
+      "requiredRepositories": [
+        "yousufali2525/B14-A07-Bazar-Dor"
+      ],
+      "name": "Bazar Dor",
+      "category": "Full Stack",
+      "showCategory": false,
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "DaisyUI",
+        "BetterAuth"
+      ],
+      "liveUrl": "https://b14-a07-bazar-dor.vercel.app/",
+      "liveLabel": "Live Preview",
+      "repoLinks": [
+        {
+          "label": "Code Repo",
+          "url": "https://github.com/yousufali2525/B14-A07-Bazar-Dor"
+        }
+      ],
+      "protected": true
+    },
+    {
+      "repository": "yousufali2525/B14-A6-Fit-Log-",
+      "requiredRepositories": [
+        "yousufali2525/B14-A6-Fit-Log-"
+      ],
+      "name": "FitLog",
+      "category": "Frontend / Full Stack",
+      "showCategory": false,
+      "stack": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "DaisyUI"
+      ],
+      "liveUrl": "https://b14-a6-fit-log-mu.vercel.app/",
+      "liveLabel": "Live Preview",
+      "repoLinks": [
+        {
+          "label": "Code Repo",
+          "url": "https://github.com/yousufali2525/B14-A6-Fit-Log-"
+        }
+      ],
+      "protected": true
+    },
+    {
+      "repository": "yousufali2525/react-B14-A5",
+      "requiredRepositories": [
+        "yousufali2525/react-B14-A5"
+      ],
+      "name": "DevStack",
+      "category": "Frontend",
+      "showCategory": false,
+      "stack": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Vite"
+      ],
+      "liveUrl": "https://extraordinary-cheesecake-4c5cb4.netlify.app/",
+      "liveLabel": "Live Preview",
+      "repoLinks": [
+        {
+          "label": "Code Repo",
+          "url": "https://github.com/yousufali2525/react-B14-A5"
+        }
+      ],
+      "protected": true
+    }
+  ]
+}
